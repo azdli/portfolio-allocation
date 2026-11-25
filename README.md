@@ -2,6 +2,9 @@
 
 A lightweight, private, and manual macOS app for tracking holdings across brokerage accounts, seeing your allocation at a glance, and deciding what to buy next.
 
+<img width="2672" height="1522" alt="demo" src="https://github.com/user-attachments/assets/3647561f-68e6-46b6-8198-55232efb0231" />
+*Demo Portfolio*
+
 ## Features
 
 - **Simple entry.** Copy each position's total shares and cost basis from your brokerage's positions page. Update them inline as they change.
